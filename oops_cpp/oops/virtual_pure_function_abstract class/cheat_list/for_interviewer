@@ -1,0 +1,21 @@
+/*
+classs
+types of classs
+modifier,specifier,data hiding==private,protected,public
+types of function--static function ,override, overloading
+connstructor
+destructor
+operator overloading
+initializer list
+polymerphism
+this pointer
+inheritance
+virtual function
+
+there are four pillars of oops in java,or python  java and python are pure oops programming language and it is independent program that has jvm and pvm
+cpp is a partial oops  that is why it is platform dependent
+encapsulation==wrapping of an data member and member function is called encapsulation 
+polymeerphism
+abstraction
+inheritance
+*/
